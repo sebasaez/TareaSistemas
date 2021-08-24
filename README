@@ -3,5 +3,15 @@ Antonia Hermoso
 Sebastián Sáez
 
 
-
-
+se modificaron:
+proc.c
+sysproc.c
+defs.h 
+ syscall.h
+ syscall.c
+ user.h
+ usys.S
+ Makefile
+ 
+ se agrego :
+ cuenta.c
